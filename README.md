@@ -1,1 +1,1 @@
-env GOOS=windows GOARCH=amd64 go build -ldflags -H=windowsgui -o ./htmldecode.exe .
+env GOOS=windows GOARCH=amd64 go build -ldflags -H=windowsgui -o ./htmldecoder.exe .
